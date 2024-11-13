@@ -1,0 +1,21 @@
+---
+title: "A propos"
+image: ubitinfo_logo.jpg
+about:
+  template: jolla
+  links:
+    - icon: whatsapp
+      text: whatsapp
+      href: https://linkedin.com/in/seydina-issa-laye-fall-68847919b/
+---
+*RC: SN THS 2014 A 2316 - NINEA: 005128386*
+
+*Ubit Info* est une entreprise spécialisée dans les services technologiques, offrant une gamme complète de solutions pour répondre aux besoins de ses clients. Nos services incluent :
+
+*Formation en informatique* : Nous proposons des formations adaptées à tous les niveaux, des débutants aux utilisateurs avancés, pour améliorer vos compétences en informatique.
+
+*Réparation et décodage* : Nous assurons la réparation de divers appareils électroniques et offrons des services de décodage pour rendre vos appareils compatibles avec différents réseaux ou systèmes.
+
+*Accessoires et matériels électroniques* : Nous vendons une large gamme d’accessoires et de matériels électroniques, allant des câbles et adaptateurs aux composants plus complexes.
+
+Chez *Ubit Info*, notre mission est de fournir des solutions technologiques de qualité pour faciliter votre quotidien et optimiser vos performances.

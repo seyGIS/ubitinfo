@@ -1,0 +1,16 @@
+**Formation en informatique**
+
+Chez Ubit Info, nous offrons une variété de formations en informatique pour répondre aux besoins de tous les niveaux d’utilisateurs. Nos programmes de formation incluent :
+
+-   **Initiation à l’informatique** : Conçu pour les débutants, ce cours couvre les bases de l’utilisation d’un ordinateur, la navigation sur Internet, et l’utilisation des logiciels de bureautique courants.\
+    ![](bureau.jpg){width="468" height="125"}
+
+-   **Bureautique avancée** : Pour ceux qui souhaitent approfondir leurs compétences, ce programme inclut des formations sur les logiciels de traitement de texte, les tableurs, les présentations et les bases de données.
+
+-   **Programmation** : Nous proposons des cours de programmation dans divers langages tels que Python, Java, et C++, adaptés aux débutants comme aux utilisateurs avancés.
+
+-   **Réseaux et sécurité informatique** : Ce programme couvre les principes de base des réseaux informatiques, la configuration des réseaux, ainsi que les meilleures pratiques en matière de sécurité informatique.
+
+-   **Maintenance et dépannage** : Apprenez à diagnostiquer et réparer les problèmes courants des ordinateurs et autres appareils électroniques.
+
+Nos formations sont conçues pour être pratiques et interactives, permettant aux participants d’acquérir des compétences concrètes et applicables immédiatement. Que vous soyez un particulier cherchant à améliorer vos compétences ou une entreprise souhaitant former ses employés, Ubit Info a la solution adaptée à vos besoins.
