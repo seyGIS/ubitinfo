@@ -9,8 +9,6 @@ about:
       href: https://linkedin.com/in/seydina-issa-laye-fall-68847919b/
 ---
 
-*RC: SN THS 2014 A 2316 - NINEA: 005128386*
-
 *Ubit Info* est une entreprise spécialisée dans les services technologiques, offrant une gamme complète de solutions pour répondre aux besoins de ses clients. Nos services incluent :
 
 *Formation en informatique* : Nous proposons des formations adaptées à tous les niveaux, des débutants aux utilisateurs avancés, pour améliorer vos compétences en informatique.

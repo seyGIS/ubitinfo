@@ -16,7 +16,13 @@ website:
         text: Reparation & Decodage
       - href: contact.qmd
         text: Contact
-        
+  page-footer:
+    background: primary
+    left: "RC: SN THS 2014 A 2316"
+    center: "NINEA: 005128386"
+    right: "Copyright 2024"
+  reader-mode: true
+
         
 
 format:
